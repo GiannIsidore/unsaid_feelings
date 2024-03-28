@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "618624814273",
+    "project_id": "auth-841db",
+    "storage_bucket": "auth-841db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618624814273:android:509e4e9a4281da88f31840",
+        "android_client_info": {
+          "package_name": "com.example.unsaid_feelings"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ2cAtTiLfRG-azFXP2-3m5oUt24Pqsos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
