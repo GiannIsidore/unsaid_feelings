@@ -106,7 +106,7 @@ class _HomePageState extends State<HomePage> {
     FilePickerResult? result = await FilePicker.platform.pickFiles(
       type: FileType.custom,
       withData: true,
-      allowedExtensions: ['png', 'jpg', 'jpeg', 'mp4'],
+      allowedExtensions: ['png', 'jpg', 'jpeg', 'gif'],
     );
 
     if (result != null) {
