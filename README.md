@@ -1,6 +1,6 @@
 # unsaid_feelings
 
-A new Flutter project.
+Firebase Flutter project
 
 ## Getting Started
 
