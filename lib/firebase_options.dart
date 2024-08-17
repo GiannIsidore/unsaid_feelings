@@ -44,24 +44,24 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBgFdd-G8wVfIfudr3VCnqBkV7Iu5VYR1M',
-    appId: '1:618624814273:web:e9b646fcd04795cdf31840',
-    messagingSenderId: '618624814273',
-    projectId: 'auth-841db',
-    authDomain: 'auth-841db.firebaseapp.com',
-    storageBucket: 'auth-841db.appspot.com',
+    apiKey: "",
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    authDomain: '',
+    storageBucket: '',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCZ2cAtTiLfRG-azFXP2-3m5oUt24Pqsos',
-    appId: '1:618624814273:android:509e4e9a4281da88f31840',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '618624814273',
     projectId: 'auth-841db',
     storageBucket: 'auth-841db.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBDbMKvndiPj_iCczGILCBLIqcJyfdC8Y8',
+    apiKey: '',
     appId: '1:618624814273:ios:ebaddea63eae9148f31840',
     messagingSenderId: '618624814273',
     projectId: 'auth-841db',
@@ -70,7 +70,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyBDbMKvndiPj_iCczGILCBLIqcJyfdC8Y8',
+    apiKey: '',
     appId: '1:618624814273:ios:545f2f97b80f1481f31840',
     messagingSenderId: '618624814273',
     projectId: 'auth-841db',
